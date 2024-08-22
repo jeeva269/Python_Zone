@@ -7,7 +7,7 @@ b = int(a)
 print (b)
 print(type(b))
 
-#sting to int casting...
+#string to int casting...
 
 a = int(input("Enter the value A : "))
 b = int(input("Enter the value b : "))
